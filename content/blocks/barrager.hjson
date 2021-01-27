@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Barrager
-description: A turret that shoots missiles really fast.
+description: A stronger version of the swarmer, only has 2 barrels.
 targetAir: true
 targetGround: true
 health: 1000
@@ -9,7 +9,6 @@ inaccuracy: 0
 reload: 0.1
 shots: 2
 recoil: 1
-ammoUseEffect: casing1
 shootCone: 8
 rotatespeed: 20
 range: 300
@@ -44,12 +43,30 @@ ammoTypes: {
     frontColor: ff0000
     backColor: ff0000
   }
+  surge-alloy: {
+    type: MissileBulletType
+    speed: 4
+    damage: 35
+    lightning: 8
+    lightningLength: 24
+    width: 8
+    height: 16
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    status: none
+    ammoMultiplier: 3
+    lifetime: 240
+    frontColor: ffd700
+    backColor: ffd700
+  }
 }
 requirements: [
-  copper/130
+  graphite/130
   lead/100
-  titanium/60
+  titanium/100
+  silicon/50
+  plastanium/30
 ]
 category: turret
 research: swarmer
-shootSound: bigshot
+shootSound: missile
