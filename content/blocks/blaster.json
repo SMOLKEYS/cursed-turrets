@@ -6,7 +6,7 @@ targetGround: true
 health: 2500
 size: 3
 inaccuracy: 0
-reload: 10
+reload: 60
 shots: 1
 recoil: 1
 shootCone: 8
@@ -21,6 +21,7 @@ ammoTypes: {
     height: 24
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
+    lifetime: 6
     status: burning
     ammoMultiplier: 2
     frontColor: ffa500
@@ -36,6 +37,7 @@ ammoTypes: {
     height: 24
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
+    lifetime: 6
     hitEffect: flakExplosion
     status: none
     ammoMultiplier: 1
@@ -52,6 +54,7 @@ ammoTypes: {
     height: 21
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
+    lifetime: 6
     status: none
     ammoMultiplier: 3
     frontColor: ffd700
