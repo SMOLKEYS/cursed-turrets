@@ -46,8 +46,8 @@ ammoTypes: {
     type: MissileBulletType
     speed: 4
     damage: 35
-    lightning: 8
-    lightningLength: 24
+    lightning: 5
+    lightningLength: 5
     width: 8
     height: 16
     shootEffect: shootBig
