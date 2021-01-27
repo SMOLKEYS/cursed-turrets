@@ -1,9 +1,9 @@
 type: ItemTurret
 name: Blaster
-description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful.
+description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful./nHas a odd light in the center...
 targetAir: true
 targetGround: true
-health: 1000
+health: 2500
 size: 3
 inaccuracy: 0
 reload: 2
