@@ -45,9 +45,9 @@ ammoTypes: {
   surge-alloy: {
     type: MissileBulletType
     speed: 4
-    damage: 35
-    lightning: 2
-    lightningLength: 2
+    damage: 25
+    lightning: 3
+    lightningLength: 4
     width: 8
     height: 16
     shootEffect: shootBig
