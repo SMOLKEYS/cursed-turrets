@@ -39,7 +39,6 @@ ammoTypes: {
     hitEffect: flakExplosion
     status: none
     ammoMultiplier: 1
-    lifetime: 240
     frontColor: ff0000
     backColor: ff0000
   }
@@ -55,7 +54,6 @@ ammoTypes: {
     smokeEffect: shootBigSmoke
     status: none
     ammoMultiplier: 3
-    lifetime: 240
     frontColor: ffd700
     backColor: ffd700
   }
