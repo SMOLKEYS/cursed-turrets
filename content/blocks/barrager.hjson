@@ -12,18 +12,27 @@ recoil: 1
 ammoUseEffect: casing1
 shootCone: 8
 rotatespeed: 20
-range: 40
-ammo: {
+range: 300
+ammoTypes: {
   pyratite: {
     type: MissileBulletType
+    speed: 5
     damage: 10
+    width: 16
+    height: 21
+    shootEffect: shootBig
+    smokeEffect:shootBigSmoke
+    status: none
+    ammoMultiplier: 1
+    frontColor: red
+    backColor: orange
   }
 }
 requirements: [
-  copper/100
-  lead/90
-  titanium/70
+  copper/130
+  lead/100
+  titanium/60
 ]
 category: turret
 research: swarmer
-shootSound: artillery
+shootSound: bigshot
