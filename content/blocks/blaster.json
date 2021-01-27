@@ -6,10 +6,9 @@ targetGround: true
 health: 2500
 size: 3
 inaccuracy: 0
-reload: 300
 shootDuration: 300
 shots: 1
-recoil: 1
+recoil: 5
 shootCone: 8
 rotatespeed: 20
 range: 500
