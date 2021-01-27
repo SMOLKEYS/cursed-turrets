@@ -1,0 +1,8 @@
+{
+"name": "smolkeysturrets",
+"displayName": "Turrets Mod",
+"author": "SMOLKEYS",
+"description": "Adds in new turrets to the game.",
+"version": "1",
+"minGameVersion": "121",
+}
