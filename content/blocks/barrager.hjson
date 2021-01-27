@@ -64,11 +64,15 @@ ammoTypes: {
   }
 }
 requirements: [
-  graphite/200
-  lead/150
-  titanium/150
-  silicon/100
-  plastanium/60
+  copper/500
+  lead/300
+  graphite/250
+  titanium/200
+  silicon/130
+  metaglass/100
+  thorium/200
+  plastanium/120
+  surge-alloy/100
 ]
 category: turret
 research: foreshadow
