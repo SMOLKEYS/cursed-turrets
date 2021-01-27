@@ -23,16 +23,16 @@ ammoTypes: {
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
     status: burning
-    ammoMultiplier: 1
+    ammoMultiplier: 2
     frontColor: ffa500
     backColor: ffa500
   }
   blast-compound: {
     type: MissileBulletType
-    speed: 3
+    speed: 4
     damage: 30
     splashDamage: 15
-    splashDamageRadius: 16
+    splashDamageRadius: 40
     width: 8
     height: 16
     shootEffect: shootBig
@@ -40,8 +40,9 @@ ammoTypes: {
     hitEffect: flakExplosion
     status: none
     ammoMultiplier: 1
-    frontColor: ffa500
-    backColor: ffa500
+    lifetime: 240
+    frontColor: ff0000
+    backColor: ff0000
   }
 }
 requirements: [
