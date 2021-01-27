@@ -18,6 +18,8 @@ ammoTypes: {
     type: MissileBulletType
     speed: 3
     damage: 100
+    splashDamage: 30
+    splashDamageRadius: 70
     width: 16
     height: 24
     shootEffect: shootBig
