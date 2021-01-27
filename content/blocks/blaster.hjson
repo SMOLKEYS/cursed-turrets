@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Blaster
-description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful. Has a odd light in the center...
+description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful. Make sure you bring some [green]polys []when building this.
 targetAir: true
 targetGround: true
 health: 2500
@@ -71,6 +71,7 @@ requirements: [
   lead/850
   titanium/450
   silicon/300
+  thorium/350
   plastanium/230
   surge-alloy/190
 ]
