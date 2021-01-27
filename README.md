@@ -1,4 +1,4 @@
-# Turrets Mod
+# SMOLKEYS Turrets
 
 Adds in new turrets to the game.
 My first normal-ish mod.
