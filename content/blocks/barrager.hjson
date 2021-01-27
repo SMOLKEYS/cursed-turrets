@@ -24,8 +24,8 @@ ammoTypes: {
     smokeEffect:shootBigSmoke
     status: none
     ammoMultiplier: 1
-    frontColor: red
-    backColor: orange
+    frontColor: ff0000
+    backColor: ffa500
   }
 }
 requirements: [
