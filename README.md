@@ -1,4 +1,12 @@
-# MindustryMod-Template
-Mindustry Mod Template
+# Turrets Mod
 
-フォルダを削除したい場合はフォルダ内の".gitkeep"を消してください。
+Adds in new turrets to the game.
+My first "normal" mod.
+
+
+
+Info:
+
+|Turrets:|Details:|
+|:------:|:------:|
+Barrager|Launches missiles really fast.
