@@ -1,7 +1,7 @@
 # Turrets Mod
 
 Adds in new turrets to the game.
-My first "normal" mod.
+My first normal-ish mod.
 
 
 
