@@ -9,6 +9,7 @@ inaccuracy: 0
 reloadTime: 0.8
 shots: 2
 recoil: 1
+xRand: 2
 shootCone: 8
 rotatespeed: 20
 range: 300
