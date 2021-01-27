@@ -22,7 +22,6 @@ ammoTypes: {
     splashDamageRadius: 40
     width: 8
     height: 16
-    lifetime: 120
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
     status: burning
@@ -32,7 +31,7 @@ ammoTypes: {
   }
   blast-compound: {
     type: MissileBulletType
-    speed: 4
+    speed: 3
     damage: 30
     splashDamage: 15
     splashDamageRadius: 40
@@ -49,7 +48,7 @@ ammoTypes: {
   }
   surge-alloy: {
     type: MissileBulletType
-    speed: 4
+    speed: 3
     damage: 25
     lightning: 3
     lightningLength: 4
