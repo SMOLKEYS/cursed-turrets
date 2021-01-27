@@ -6,7 +6,7 @@ targetGround: true
 health: 2500
 size: 3
 inaccuracy: 0
-reload: 240
+reload: 180
 shots: 1
 recoil: 1
 shootCone: 8
@@ -16,7 +16,7 @@ ammoTypes: {
   pyratite: {
     type: MissileBulletType
     speed: 3
-    damage: 50
+    damage: 100
     width: 16
     height: 24
     shootEffect: shootBig
@@ -30,7 +30,7 @@ ammoTypes: {
   blast-compound: {
     type: MissileBulletType
     speed: 3
-    damage: 70
+    damage: 180
     splashDamage: 40
     splashDamageRadius: 80
     width: 16
@@ -47,7 +47,7 @@ ammoTypes: {
   surge-alloy: {
     type: MissileBulletType
     speed: 3
-    damage: 50
+    damage: 130
     lightning: 5
     lightningLength: 6
     width: 16
