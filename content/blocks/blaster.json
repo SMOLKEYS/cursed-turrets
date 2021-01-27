@@ -1,0 +1,71 @@
+type: ItemTurret
+name: Blaster
+description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful.
+targetAir: true
+targetGround: true
+health: 1000
+size: 3
+inaccuracy: 0
+reload: 2
+shots: 1
+recoil: 1
+shootCone: 8
+rotatespeed: 20
+range: 500
+ammoTypes: {
+  pyratite: {
+    type: MissileBulletType
+    speed: 3
+    damage: 50
+    width: 16
+    height: 24
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    status: burning
+    ammoMultiplier: 2
+    frontColor: ffa500
+    backColor: ffa500
+  }
+  blast-compound: {
+    type: MissileBulletType
+    speed: 3
+    damage: 70
+    splashDamage: 40
+    splashDamageRadius: 80
+    width: 16
+    height: 24
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    hitEffect: flakExplosion
+    status: none
+    ammoMultiplier: 1
+    frontColor: ff0000
+    backColor: ff0000
+  }
+  surge-alloy: {
+    type: MissileBulletType
+    speed: 3
+    damage: 50
+    lightning: 5
+    lightningLength: 6
+    width: 16
+    height: 21
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    status: none
+    ammoMultiplier: 3
+    frontColor: ffd700
+    backColor: ffd700
+  }
+}
+requirements: [
+  graphite/350
+  lead/230
+  titanium/300
+  silicon/200
+  plastanium/120
+  surge-alloy/120
+]
+category: turret
+research: barrager
+shootSound: missile
