@@ -21,7 +21,7 @@ ammoTypes: {
     height: 24
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
-    lifetime: 6
+    lifetime: 250
     status: burning
     ammoMultiplier: 2
     frontColor: ffa500
@@ -37,7 +37,7 @@ ammoTypes: {
     height: 24
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
-    lifetime: 6
+    lifetime: 250
     hitEffect: flakExplosion
     status: none
     ammoMultiplier: 1
@@ -54,7 +54,7 @@ ammoTypes: {
     height: 21
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
-    lifetime: 6
+    lifetime: 250
     status: none
     ammoMultiplier: 3
     frontColor: ffd700
