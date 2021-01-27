@@ -6,7 +6,7 @@ targetGround: true
 health: 1000
 size: 2
 inaccuracy: 0
-reloadTime: 0.8
+reloadTime: 1.2
 shots: 2
 recoil: 1
 xRand: 2
