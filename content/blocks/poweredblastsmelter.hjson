@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: Powered Blast Smelter
+description: Compresses blast compound to a deadlier version of it.
+itemCapacity: 20
+size: 2
+craftEffect: smeltsmoke
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 
+outputItem: {item: silicon, amount: 1},
+consumes: {
+        power: 3,
+        items: {
+            items: [
+                { item: coal, amount: 8 },
+            ]
+}
+requirements: [
+  copper/20
+]
+category: crafting
