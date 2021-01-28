@@ -5,7 +5,7 @@ details: Suggested by OmelZ the Void#0526.
 health: 818381831
 targetAir: true
 targetGround: true
-size: 3
+size: 4
 reloadTime: 180
 range: 190
 recoil: 0
