@@ -65,5 +65,8 @@ ammoTypes: {
     backColor: ffd700
   }
 }
+requirements: [
+  copper/1
+]
 category: turret
 shootSound: missile
