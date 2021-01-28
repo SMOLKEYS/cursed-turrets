@@ -8,6 +8,8 @@ size: 2
 inaccuracy: 5
 reloadTime: 60
 shots: 2
+maxAmmo: 20
+ammoPerShot: 2
 recoil: 1
 xRand: 2
 shootCone: 8
