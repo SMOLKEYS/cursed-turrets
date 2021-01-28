@@ -1,0 +1,25 @@
+type: PowerTurret
+name: Freezeup
+description: A meltdown that shoots backwards and freezes units.
+details: Suggested by OmelZ the Void#0526.
+health: 818381831
+targetAir: true
+targetGround: true
+size: 3
+reloadTime: 180
+range: 190
+recoil: 0
+shootSound: laserBig
+powerUse: 1
+shootType: {
+  type: ContinuousLaserBulletType
+  colors: [00ffff, 0000ff]
+  length: 190
+  width: 12
+  damage: 100
+  status: freezing
+}
+requirements: [
+  copper/1
+]
+category: turret
