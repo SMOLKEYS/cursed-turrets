@@ -1,18 +1,16 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
         "name": Blast Compresser
         "description": Presses blast into something more deadlier.
 	"liquidCapacity": 50,
 	"itemCapacity": 50,
-	"outputItem": {"item": "blast-compound", "amount": 10},
+	"outputItem": {"item": "poweredblast", "amount": 2},
 	"size": 2,
 	"hasPower": true,
-	"hasLiquids": true,
 	"hasItems": true,
-	"craftTime": 60,
-	"updateEffect": "smeltsmoke",
+	"craftTime": 70,
 	"consumes": {
-		"power": 1.0,
+		"power": 1.5,
 		"items": {
 			"items": [
 				{ "item": "blast-compound", "amount": 5 }
