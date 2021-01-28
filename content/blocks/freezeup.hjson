@@ -9,10 +9,10 @@ size: 4
 reloadTime: 180
 range: 190
 recoil: 0
-shootSound: laserBig
 powerUse: 1
 shootType: {
   type: ContinuousLaserBulletType
+  shootSound: laserBig
   colors: [00ffff, 0000ff]
   length: 190
   width: 12
