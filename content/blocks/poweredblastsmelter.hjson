@@ -16,6 +16,7 @@ consumes: {
                 { item: coal, amount: 8 }
             ]
 },
+
 requirements: [
   copper/20
 ]
