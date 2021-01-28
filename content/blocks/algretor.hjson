@@ -1,7 +1,7 @@
 type: ItemTurret
 name: Algretor
-description: A railgun turret that annhilates almost everything in its path.
-health: 1000
+description: A sandbox only railgun turret that annhilates almost everything in its path.
+health: 90000000
 targetAir: true
 targetGround: true
 size: 4
@@ -9,5 +9,35 @@ reloadTime: 300
 maxAmmo: 40
 ammoPerShot: 5
 lifetime: 5
+range: 580
 rotateSpeed: 10
+recoil: 5
 shootSound: bigshot
+ammoTypes: {
+  poweredblast: {
+    type: LaserBulletType
+    damage: 1000
+    length: 5000
+    width:  30
+    drawSize: 300
+    pierce: false
+    fragBullets: 5
+    fragBullet: {
+      type: LaserBulletType
+      damage: 800
+      length: 5000
+      width:  30
+      drawSize: 300
+      pierce: false
+      fragBullets: 5
+      fragBullet: {
+         type: LaserBulletType
+         damage: 400
+         length: 5000
+         width:  30
+         drawSize: 300
+         pierce: false
+         }
+      }
+}
+catgory: turret
