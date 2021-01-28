@@ -65,12 +65,5 @@ ammoTypes: {
     backColor: ffd700
   }
 }
-requirements: [
-  titanium/900
-  thorium/750
-  plastanium/430
-  surge-alloy/350
-]
 category: turret
-research: foreshadow
 shootSound: missile
