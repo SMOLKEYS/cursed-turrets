@@ -1,6 +1,6 @@
 name: Powered Blast
-description: A much more tougher version of blast, has no other purpose and can only be used on turrets.
-explosiveness: 400
-flammability: 100
+description: A much more tougher version of blast compound, has no other purpose and can only be used on turrets.
+explosiveness: 4
+flammability: 1
 cost: 2
 color: ff0000
