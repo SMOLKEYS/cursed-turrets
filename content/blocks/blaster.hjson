@@ -13,7 +13,7 @@ shootCone: 8
 rotatespeed: 20
 maxAmmo: 100
 ammoPerShot: 10
-range: 500
+range: 752
 consumes: {
   power: 25
 }
