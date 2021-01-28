@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Blaster
-description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful. Make sure you bring some Polys when building this.
+description: A powerful missile launcher that shoots 1 large missile.
 targetAir: true
 targetGround: true
 health: 90173915
