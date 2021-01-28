@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Algretor
-description: A sandbox only railgun turret that annhilates almost everything in its path.
+description: A sandbox only railgun turret that annhilates about everything in its path.
 health: 90000000
 targetAir: true
 targetGround: true
