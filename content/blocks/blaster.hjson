@@ -75,7 +75,7 @@ requirements: [
   thorium/350
   plastanium/230
   surge-alloy/190
-]
+ ]
 category: turret
 research: barrager
 shootSound: missile
