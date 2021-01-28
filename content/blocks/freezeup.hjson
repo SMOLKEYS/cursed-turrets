@@ -13,7 +13,7 @@ recoil: 0
 powerUse: 1
 shootType: {
   type: ContinuousLaserBulletType
-  shootSound: laserBig
+  shootSound: beam
   colors: [00ffff, 0000ff]
   length: 190
   width: 6
@@ -25,3 +25,4 @@ requirements: [
   copper/1
 ]
 category: turret
+shootSound: beam
