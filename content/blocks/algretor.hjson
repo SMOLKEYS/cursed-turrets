@@ -39,6 +39,6 @@ ammoTypes: {
          pierce: false
          }
       }
+   }
 }
 category: turret
-}
