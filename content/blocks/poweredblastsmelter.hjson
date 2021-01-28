@@ -8,15 +8,16 @@ hasPower: true
 hasLiquids: false
 hasItems: true
 craftTime: 
-outputItem: {item: silicon, amount: 1},
+outputItem: {item: silicon, amount: 1}
 consumes: {
         power: 3,
         items: {
             items: [
-                { item: coal, amount: 8 },
+                { item: coal, amount: 8 }
             ]
 }
 requirements: [
   copper/20
 ]
 category: crafting
+}
