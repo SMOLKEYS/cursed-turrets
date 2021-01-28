@@ -69,15 +69,10 @@ ammoTypes: {
   }
 }
 requirements: [
-  copper/1200
-  graphite/900
-  metaglass/880
-  lead/850
-  titanium/450
-  silicon/300
-  thorium/350
-  plastanium/230
-  surge-alloy/190
+  titanium/1200
+  thorium/1000
+  plastanium/900
+  surge-alloy/850
 ]
 category: turret
 research: barrager
