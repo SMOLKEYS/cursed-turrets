@@ -14,6 +14,9 @@ rotatespeed: 20
 maxAmmo: 100
 ammoPerShot: 10
 range: 500
+consumes: {
+  power: 1500
+}
 ammoTypes: {
   pyratite: {
     type: MissileBulletType
