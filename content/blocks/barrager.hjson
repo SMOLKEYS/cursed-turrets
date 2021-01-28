@@ -3,7 +3,7 @@ name: Barrager
 description: A stronger version of the swarmer, only has 2 barrels.
 targetAir: true
 targetGround: true
-health: 1000
+health: 98183918
 size: 2
 inaccuracy: 5
 reloadTime: 60
