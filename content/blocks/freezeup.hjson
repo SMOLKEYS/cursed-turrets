@@ -1,4 +1,4 @@
-type: PowerTurret
+type: LaserTurret
 name: Freezeup
 description: A meltdown that shoots backwards and freezes units.
 details: Suggested by OmelZ the Void#0526.
