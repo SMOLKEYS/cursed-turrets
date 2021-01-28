@@ -16,7 +16,7 @@ shootType: {
   shootSound: laserBig
   colors: [00ffff, 0000ff]
   length: 190
-  width: 12
+  width: 8
   damage: 100
   status: freezing
   lifetime: 200
