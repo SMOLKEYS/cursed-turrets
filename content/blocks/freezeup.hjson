@@ -17,7 +17,7 @@ shootType: {
   colors: [00ffff, 0000ff]
   length: 190
   width: 6
-  damage: 50
+  damage: 15
   status: freezing
   lifetime: 160
 }
