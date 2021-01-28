@@ -67,6 +67,22 @@ ammoTypes: {
     frontColor: ffd700
     backColor: ffd700
   }
+  poweredblast: {
+    type: MissileBulletType
+    speed: 3
+    damage: 400
+    splashDamage: 150
+    splashDamageRadius: 150
+    width: 16
+    height: 21
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    lifetime: 250
+    status: melting
+    ammoMultiplier: 3
+    frontColor: ffffff
+    backColor: ff0000
+  }
 }
 requirements: [
   titanium/1200
