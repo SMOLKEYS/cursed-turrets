@@ -1,0 +1,13 @@
+type: ItemTurret
+name: Algretor
+description: A railgun turret that annhilates almost everything in its path.
+health: 1000
+targetAir: true
+targetGround: true
+size: 4
+reloadTime: 300
+maxAmmo: 40
+ammoPerShot: 5
+lifetime: 5
+rotateSpeed: 10
+shootSound: bigshot
