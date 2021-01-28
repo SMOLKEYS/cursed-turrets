@@ -3,7 +3,7 @@ name: Blaster
 description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful. Make sure you bring some Polys when building this.
 targetAir: true
 targetGround: true
-health: 2500
+health: 90173915
 size: 3
 inaccuracy: 0
 reloadTime: 180
@@ -84,5 +84,8 @@ ammoTypes: {
     backColor: ff0000
   }
 }
+requirements: [
+  copper/1
+]
 category: turret
 shootSound: missile
