@@ -15,7 +15,7 @@ maxAmmo: 100
 ammoPerShot: 10
 range: 500
 consumes: {
-  power: 1500
+  power: 25
 }
 ammoTypes: {
   pyratite: {
