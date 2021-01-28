@@ -6,8 +6,8 @@ health: 818381831
 targetAir: true
 targetGround: true
 size: 4
-reloadTime: 6
-firingMoveFract: 20
+reloadTime: 3
+firingMoveFract: 0.5
 range: 190
 recoil: 0
 powerUse: 1
