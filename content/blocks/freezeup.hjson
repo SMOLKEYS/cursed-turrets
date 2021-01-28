@@ -18,6 +18,7 @@ shootType: {
   width: 12
   damage: 100
   status: freezing
+  lifetime: 200
 }
 requirements: [
   copper/1
