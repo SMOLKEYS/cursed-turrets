@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Barrager
-description: A stronger version of the swarmer, only has 2 barrels.
+description: A missile launcher that shoots 2 missiles.
 targetAir: true
 targetGround: true
 health: 98183918
