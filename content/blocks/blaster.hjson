@@ -1,3 +1,4 @@
+{
 type: ItemTurret
 name: Blaster
 description: A stronger version of the barrager, only has 1 barrel. But is incredibly powerful. Make sure you bring some [green]polys []when building this.
@@ -75,7 +76,8 @@ requirements: [
   thorium/350
   plastanium/230
   surge-alloy/190
- ]
+]
 category: turret
 research: barrager
 shootSound: missile
+}
