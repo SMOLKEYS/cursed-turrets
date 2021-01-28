@@ -7,7 +7,7 @@ targetAir: true
 targetGround: true
 size: 4
 reloadTime: 360
-firingMoveFract: 0.5
+firingMoveFract: 0
 range: 190
 recoil: 0
 powerUse: 1
