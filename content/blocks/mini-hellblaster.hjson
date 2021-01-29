@@ -22,6 +22,8 @@ ammoTypes: {
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
     lifetime: 99999999
+    frontColor: ff4848
+    backColor: ff4848
   }
 }
 requirements: [
