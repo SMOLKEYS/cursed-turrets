@@ -7,7 +7,7 @@ My first ~~normal~~ mod.
 # Accepting Community Suggestions!
 You can suggest your own turrets and optionally provide a sprite.
 
-You can suggest in the Issues tab.
+[You can suggest here.](https://github.com/SMOLKEYS/sandyturretsuggestions/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=)
 
 (eg. Add an infinite range turret with 4000 damage.)
 
