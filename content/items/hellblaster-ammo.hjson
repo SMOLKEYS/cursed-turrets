@@ -1,1 +1,7 @@
+name: Hellblaster Ammo
+description: Ammo for the Hellblaster, has no more other purpose.
+explosiveness: 40
+flammability: 50
+cost: 2
+color: ff0000
 
