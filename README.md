@@ -16,7 +16,7 @@ You can suggest or PR(pull request) a turret below.
 
 |People who suggested a turret:|What is the turret they suggested:|What does it do:|
 |:-----:|:-----:|:-----:|
-OmelZ|Freezeup|Shoots backwards and freezes units.
+QmelZ|Freezeup|Shoots backwards and freezes units.
 
 
 |People who Pull Requested a turret:|What is the turret they added:|What does it do:|
