@@ -14,7 +14,7 @@ spread: 360
 rotateSpeed: 90
 firingMoveFract: 0.5
 shootType: {
-  type: ContinousLaserBulletType
+  type: ContinuousLaserBulletType
   damage: 30
   shootSound: beam
   colors: [ffffff, ffffff]
