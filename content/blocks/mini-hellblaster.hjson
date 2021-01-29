@@ -10,7 +10,7 @@ reloadTime: 60
 shots: 1
 rotateSpeed: 100
 maxAmmo: 200
-ammoPerShot: 69
+ammoPerShot: 6
 range: 300
 ammoTypes: {
   h: {
