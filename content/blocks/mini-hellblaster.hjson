@@ -17,6 +17,7 @@ ammoTypes: {
     type: BasicBulletType
     speed: 9
     damage: 81839184
+    pierce: true
     width: 16
     length: 16
     shootEffect: shootBig
