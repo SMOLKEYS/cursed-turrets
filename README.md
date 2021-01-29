@@ -1,17 +1,16 @@
-# Sandy Turrets
+# Community Turrets Mod
 
-Adds in new overpowered turrets to the game.
+Adds in new overpowered and cursed turrets
 My first ~~normal~~ mod.
 
 
-# Accepting Community Suggestions/Pull Requests!
-You can suggest or pull request your own turrets and optionally provide a sprite.
+You can suggest or PR(pull request) a turret below.
 
-[You can suggest here.](https://github.com/SMOLKEYS/sandyturretsuggestions/issues/new/choose)
+[You can suggest here.](https://github.com/SMOLKEYS/communityturretsuggestions/issues/new/choose)
 
-[You can Pull Request here.](https://github.com/SMOLKEYS/sandy-turrets/pulls)
+[You can Pull Request here.](https://github.com/SMOLKEYS/community-turrets/pulls)
 
-(eg. Add an infinite range turret with 4000 damage.)
+(eg. Add an infinite range turret with 4000 damage)
 
 
 
