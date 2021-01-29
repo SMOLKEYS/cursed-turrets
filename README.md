@@ -1,6 +1,6 @@
 # Community Turrets Mod
 
-Adds in new overpowered and cursed turrets
+Adds in new overpowered and cursed turrets made by me and the community.
 My first ~~normal~~ mod.
 
 
