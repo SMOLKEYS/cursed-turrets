@@ -13,7 +13,7 @@ maxAmmo: 200
 ammoPerShot: 6
 range: 300
 ammoTypes: {
-  h: {
+  hellblaster-ammo: {
     type: BasicBulletType
     speed: 9
     damage: 81839184
