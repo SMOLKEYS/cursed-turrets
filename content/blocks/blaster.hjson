@@ -11,8 +11,8 @@ shots: 1
 recoil: 5
 shootCone: 8
 rotatespeed: 20
-maxAmmo: 100
-ammoPerShot: 10
+maxAmmo: 200
+ammoPerShot: 69
 range: 752
 ammoTypes: {
   pyratite: {
