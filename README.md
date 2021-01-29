@@ -3,6 +3,8 @@
 Adds in new overpowered turrets to the game.
 My first ~~normal~~ mod.
 
+
+# Accepting Community Suggestions!
 You can suggest your own turrets and optionally provide a sprite.
 
 You can suggest in the Issues tab.
