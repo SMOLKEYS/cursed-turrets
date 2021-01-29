@@ -15,6 +15,10 @@ You can suggest or pull request your own turrets and optionally provide a sprite
 
 
 
-|People who suggested:|What turret they suggested:|
-|:---:|:---:|
-OmelZ|Freezeup
+|People who suggested a turret:|What turret they suggested:|What does it do:|
+|:-----:|:-----:|:-----:|
+OmelZ|Freezeup|Shoots backwards and freezes units.
+
+
+|People who Pull Requested a turret:|What is the turret they added:|What does it do:|
+|:-----:|:-----:|:-----:|
