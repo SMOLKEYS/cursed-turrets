@@ -3,7 +3,7 @@ name: Mini Hellblaster
 description: Annhilates any unit in its way.
 targetAir: true
 targetGround: true
-health: 7282873891
+health: 72828781
 size: 1
 inaccuracy: 0
 reloadTime: 20
