@@ -35,3 +35,4 @@ A turret that was suggested by QmelZ. Shoots backwards and freezes units.
 - Make the T4-T10 block turrets
 - ~~Throw my phone into the sun~~
 - Make the Algretor Sprite
+- Make a turret that can shoot any resource(suggested by JosherIsFun)
