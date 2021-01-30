@@ -6,8 +6,6 @@ targetAir: true
 targetGround: true
 size: 4
 reloadTime: 300
-maxAmmo: 40
-ammoPerShot: 5
 lifetime: 5
 range: 580
 rotateSpeed: 10
