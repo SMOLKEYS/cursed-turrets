@@ -16,8 +16,8 @@ firingMoveFract: 0.5
 shootType: {
   type: ContinuousLaserBulletType
   damage: 30
-  shootSound: beam
   colors: [ffffff, ffffff]
+  shootSound: beam
   length: 190
   width: 8
   status: melting
