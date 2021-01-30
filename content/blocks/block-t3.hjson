@@ -12,7 +12,7 @@ recoil: 5
 minRange: 3
 shootSound: artillery
 shootType: {
-  type: artilleryDense
+  type: ArtilleryBulletType
   damage: 1000
   length: 16
   width: 16
