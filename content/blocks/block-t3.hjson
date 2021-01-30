@@ -1,6 +1,6 @@
 type: PowerTurret
 name: block t3
-description: shocking block there
+description: shocking block
 health: 99289183
 targetAir: false
 targetGround: true
@@ -19,10 +19,32 @@ shootType: {
   damage: 1000
   length: 90
   width: 16
-  collidesAir: true
-  lightning: 30
-  lightningLength: 50
   color: [ffbc00, ffbc00]
+  lightning: 30
+  collidesAir: true
+  lightningLength: 50
+  fragBullets: 8
+  fragBullet: {
+    type: BasicBulletType
+    damage: 20
+    speed: 0.5
+    lifetime: 120
+    length: 8
+    width: 8
+    sprite: cursedturrets-block
+    fragBullets: 8
+    fragBullet: {
+      type: ContinuousLaserBulletType
+      colors: [ffffff, ffffff]
+      damage: 30
+      shootSound: beam
+      length: 190
+      width: 8
+      status: melting
+      sprite: cursedturrets-block
+      lifetime: 200
+    }
+  }
 }
 requirements: [
   copper/1
