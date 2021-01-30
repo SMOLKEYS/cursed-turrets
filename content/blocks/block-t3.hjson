@@ -1,1 +1,26 @@
 type: PowerTurret
+name: block t3
+description: shocking block there
+health: 99289183
+targetAir: false
+targetGround: true
+size: 4
+reloadTime: 20
+range: 300
+rotateSpeed: 10
+recoil: 5
+minRange: 3
+shootSound: artillery
+shootType: {
+  type: artilleryDense
+  damage: 1000
+  length: 16
+  width: 16
+  lightning: 10
+  lightningLength: 10
+  color: [ffbc00, ffbc00]
+}
+requirements: [
+  copper/1
+]
+category: turret
