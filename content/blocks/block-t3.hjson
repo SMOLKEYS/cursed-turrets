@@ -16,14 +16,14 @@ shootSound: artillery
 shootType: {
   type: ArtilleryBulletType
   speed: 5
-  damage: 1000
+  damage: 100
   length: 90
   width: 16
   color: [ffbc00, ffbc00]
   lightning: 30
-  collidesAir: true
   lightningLength: 50
-  fragBullets: 8
+  collidesAir: true
+  fragBullets: 7
   fragBullet: {
     type: BasicBulletType
     damage: 20
@@ -32,7 +32,7 @@ shootType: {
     length: 8
     width: 8
     sprite: cursedturrets-block
-    fragBullets: 8
+    fragBullets: 4
     fragBullet: {
       type: ContinuousLaserBulletType
       colors: [ffffff, ffffff]
