@@ -17,6 +17,7 @@ shootType: {
   damage: 1000
   length: 90
   width: 16
+  collidesAir: true
   lightning: 30
   lightningLength: 50
   color: [ffbc00, ffbc00]
