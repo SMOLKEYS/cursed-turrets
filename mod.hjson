@@ -1,8 +1,8 @@
 {
-"name": "communityturrets",
-"displayName": "Community Turrets",
+"name": "cursedturrets",
+"displayName": "Cursed Turrets",
 "author": "SMOLKEYS",
-"description": "Adds in new community-made turrets to the game.",
+"description": "Adds in new cursed turrets to the game.",
 "version": "2",
 "minGameVersion": "121",
 }
