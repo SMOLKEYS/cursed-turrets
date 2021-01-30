@@ -24,8 +24,8 @@ shootType: {
   fragBullet: {
     type: BasicBulletType
     damage: 20
-    speed: 1
-    lifetime: 300
+    speed: 0.5
+    lifetime: 200
     length: 8
     width: 8
     sprite: block
