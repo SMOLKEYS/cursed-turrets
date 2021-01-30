@@ -21,7 +21,7 @@ shootType: {
   length: 190
   width: 8
   status: melting
-  sprite: block
+  sprite: communityturrets-block
   lifetime: 200
 }
 requirements: [
