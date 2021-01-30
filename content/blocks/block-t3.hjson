@@ -8,6 +8,8 @@ size: 4
 reloadTime: 20
 range: 60000
 rotateSpeed: 10
+shots: 10
+spread: 5
 recoil: 5
 minRange: 3
 shootSound: artillery
