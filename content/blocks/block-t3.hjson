@@ -18,6 +18,7 @@ shootType: {
   width: 16
   lightning: 30
   lightningLength: 50
+  targetAir: true
   color: [ffbc00, ffbc00]
 }
 requirements: [
