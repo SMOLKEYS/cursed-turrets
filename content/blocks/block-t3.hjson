@@ -6,7 +6,7 @@ targetAir: false
 targetGround: true
 size: 4
 reloadTime: 20
-range: 300
+range: 8173918
 rotateSpeed: 10
 recoil: 5
 minRange: 3
@@ -14,10 +14,10 @@ shootSound: artillery
 shootType: {
   type: ArtilleryBulletType
   damage: 1000
-  length: 16
+  length: 24
   width: 16
-  lightning: 10
-  lightningLength: 10
+  lightning: 30
+  lightningLength: 50
   color: [ffbc00, ffbc00]
 }
 requirements: [
