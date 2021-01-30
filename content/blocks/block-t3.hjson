@@ -15,7 +15,7 @@ shootType: {
   type: ArtilleryBulletType
   speed: 5
   damage: 1000
-  length: 36
+  length: 90
   width: 16
   lightning: 30
   lightningLength: 50
