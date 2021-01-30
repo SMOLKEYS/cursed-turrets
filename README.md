@@ -9,7 +9,6 @@ QmelZ
 
 
 
-Stuff:
 
 
 # Algretor
@@ -26,3 +25,6 @@ Shoots 1 large missile.(again, *10/10 info*)
 
 # Block (Has Tiers)
 Overpowered block turrets that range from T1-T10(?)
+
+# Freezeup
+A turret that was suggested by QmelZ. Shoots backwards and freezes units.
