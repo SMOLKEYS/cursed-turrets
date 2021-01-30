@@ -13,13 +13,12 @@ minRange: 3
 shootSound: artillery
 shootType: {
   type: ArtilleryBulletType
-  speed: 2
+  speed: 5
   damage: 1000
   length: 36
-  width: 36
+  width: 16
   lightning: 30
   lightningLength: 50
-  targetAir: true
   color: [ffbc00, ffbc00]
 }
 requirements: [
