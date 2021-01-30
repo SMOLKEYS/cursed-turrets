@@ -25,7 +25,7 @@ shootType: {
     type: BasicBulletType
     damage: 20
     speed: 1
-    lifetime: 50
+    lifetime: 600
     length: 8
     width: 8
     sprite: block
