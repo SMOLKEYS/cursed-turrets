@@ -1,4 +1,4 @@
-type: ItemTurret
+type: PowerTurret
 name: Mini Hellblaster
 description: Annhilates any unit in its way.
 targetAir: true
@@ -9,23 +9,19 @@ inaccuracy: 0
 reloadTime: 20
 shots: 1
 rotateSpeed: 100
-maxAmmo: 200
-ammoPerShot: 6
 range: 300
-ammoTypes: {
-  hellblaster-ammo: {
-    type: BasicBulletType
-    speed: 9
-    damage: 81839184
-    pierce: true
-    width: 16
-    length: 16
-    shootEffect: shootBig
-    smokeEffect: shootBigSmoke
-    lifetime: 99999999
-    frontColor: ff4848
-    backColor: ff4848
-  }
+shootType: {
+  type: BasicBulletType
+  speed: 9
+  damage: 81839184
+  pierce: true
+  width: 16
+  length: 16
+  shootEffect: shootBig
+  smokeEffect: shootBigSmoke
+  lifetime: 99999999
+  frontColor: ff4848
+  backColor: ff4848
 }
 requirements: [
   copper/1
