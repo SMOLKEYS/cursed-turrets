@@ -32,6 +32,7 @@ shootType: {
     fragBullets: 5
     fragBullet: {
       type: ContinuousLaserBulletType
+      colors: [ffffff, ffffff]
       damage: 30
       shootSound: beam
       length: 190
