@@ -13,6 +13,7 @@ minRange: 3
 shootSound: artillery
 shootType: {
   type: ArtilleryBulletType
+  speed: 2
   damage: 1000
   length: 24
   width: 16
