@@ -1,6 +1,6 @@
 type: PowerTurret
 name: block t3
-description: shocking block
+description: ripplen't block
 health: 99289183
 targetAir: false
 targetGround: true
@@ -16,12 +16,10 @@ shootSound: artillery
 shootType: {
   type: ArtilleryBulletType
   speed: 5
-  damage: 100
+  damage: 120
   length: 90
   width: 16
   color: [ffbc00, ffbc00]
-  lightning: 30
-  lightningLength: 50
   collidesAir: true
   fragBullets: 7
   fragBullet: {
