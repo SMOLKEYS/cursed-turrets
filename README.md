@@ -36,3 +36,4 @@ A turret that was suggested by QmelZ. Shoots backwards and freezes units.
 - ~~Throw my phone into the sun~~
 - Make the Algretor Sprite
 - Make a turret that can shoot any resource(suggested by JosherIsFun)
+- Make an custom fuse(suggested by Ent)
