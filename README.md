@@ -28,3 +28,10 @@ Overpowered block turrets that range from T1-T10(?)
 
 # Freezeup
 A turret that was suggested by QmelZ. Shoots backwards and freezes units.
+
+
+
+# TODO
+- Make the T4-T10 block turrets
+- ~~Throw my phone into the sun~~
+- Make the Algretor Sprite
