@@ -1,1 +1,48 @@
 type: PowerTurret
+name: block t2
+description: better block
+targetAir: true
+targetGround: true
+health: 96371838
+size: 3
+inaccuracy: 0
+reloadTime: 20
+range: 300
+shots: 1
+rotateSpeed: 90
+firingMoveFract: 0.5
+shootType: {
+  type: BasicBulletType
+  damage: 40
+  speed: 5
+  shootSound: artillery
+  length: 16
+  width: 16
+  sprite: block-t2
+  lifetime: 918399182
+  fragBullets: 5
+  fragBullet: {
+    type: BasicBulletType
+    damage: 20
+    speed: 1
+    lifetime: 50
+    length: 8
+    width: 8
+    sprite: block
+    fragBullets: 5
+    fragBullet: {
+      type: ContinuousLaserBulletType
+      damage: 30
+      shootSound: beam
+      length: 190
+      width: 8
+      status: melting
+      sprite: block
+      lifetime: 200
+    }
+  }
+}
+requirements: [
+  copper/1
+]
+category: turret
