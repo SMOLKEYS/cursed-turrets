@@ -10,7 +10,7 @@ range: 270
 rotateSpeed: 30
 shootType: {
   type: ArtilleryBulletType
-  damage: 1-20
+  damage: 20-30
   size: 4
   fragBullets: 10
   spread: 36
