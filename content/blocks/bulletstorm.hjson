@@ -16,7 +16,7 @@ shootType: {
   spread: 36
   fragBullet: {
     type: MissileBulletType
-    damage: 20-100
+    damage: 100
     speed: 3
     lifetime: 120
     alternate: true
@@ -28,7 +28,7 @@ shootType: {
     spread: 180-270
     fragBullet: {
       type: MissileBulletType
-      damage: 50-200
+      damage: 150
       speed: 3
       lifetime: 120
       frontColor: ffff00
