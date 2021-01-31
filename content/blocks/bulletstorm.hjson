@@ -11,7 +11,7 @@ rotateSpeed: 30
 shootType: {
   type: ArtilleryBulletType
   damage: 30
-  width: 40
+  width: 100
   length: 40
   fragBullets: 10
   spread: 36
