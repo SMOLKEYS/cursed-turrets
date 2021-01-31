@@ -1,6 +1,6 @@
 type: PowerTurret
 name: Firework Launcher
-description: Sends 1 bullet that fragments into a firework manner.
+description: Sends 1 bullet that fragments into a firework manner. Note: The fragment bullets have more damage.
 health: 9600000
 targetAir: true
 targetGround: true
