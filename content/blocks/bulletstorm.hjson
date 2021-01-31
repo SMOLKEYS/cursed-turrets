@@ -23,7 +23,7 @@ shootType: {
     alternate: true
     frontColor: 00ff00
     backColor: 00ff00
-    width: 16
+    width: 8
     length: 40
     fragBullets: 10
     spread: 180-270
