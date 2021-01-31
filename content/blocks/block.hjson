@@ -24,7 +24,5 @@ shootType: {
   sprite: cursedturrets-block
   lifetime: 200
 }
-requirements: [
-  copper/1
-]
+requirements: []
 category: turret
