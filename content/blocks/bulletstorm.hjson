@@ -1,5 +1,5 @@
 type: PowerTurret
-name: Fireworks
+name: Firework Launcher
 description: Sends 1 bullet that fragments into a firework manner.
 health: 9600000
 targetAir: true
@@ -9,10 +9,10 @@ reloadTime: 120
 range: 270
 rotateSpeed: 30
 shootType: {
-  type: ArtilleryBulletType
+  type: MissileBulletType
   damage: 30
   width: 40
-  length: 100
+  length: 60
   fragBullets: 10
   spread: 36
   fragBullet: {
@@ -35,7 +35,7 @@ shootType: {
       frontColor: ffff00
       backColor: ffff00
       width: 8
-      length: 24
+      length: 16
     }
   }
 }
