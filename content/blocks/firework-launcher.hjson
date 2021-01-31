@@ -10,9 +10,10 @@ range: 270
 rotateSpeed: 30
 shootType: {
   type: MissileBulletType
+  speed: 7
   damage: 30
-  width: 20
-  length: 120
+  width: 16
+  length: 24
   fragBullets: 10
   spread: 36
   fragBullet: {
