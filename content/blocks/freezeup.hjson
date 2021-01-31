@@ -21,8 +21,6 @@ shootType: {
   status: freezing
   lifetime: 160
 }
-requirements: [
-  copper/1
-]
+requirements: []
 category: turret
 shootSound: beam
