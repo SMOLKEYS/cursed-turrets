@@ -45,6 +45,5 @@ shootType: {
   }
 }
 requirements: [
-  copper/1
 ]
 category: turret
