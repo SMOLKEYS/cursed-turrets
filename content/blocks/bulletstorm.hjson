@@ -1,3 +1,42 @@
 type: PowerTurret
 name: Bulletstorm
 description: Sends 1 bullet that fragments into something...
+health: 9600000
+targetAir: true
+targetGround: true
+size: 6
+reloadTime: 1200
+range: 270
+rotateSpeed: 30
+shootType: {
+  type: BasicBulletType
+  damage: 1
+  width: 16
+  length: 16
+  fragBullets: 5
+  spread: 36
+  fragBullet: {
+    type: MissileBulletType
+    damage: 80
+    speed: 2
+    lifetime: 180
+    alternate: true
+    frontColor: 00ff00
+    backColor: 00ff00
+    width: 8
+    length: 8
+    fragBullets: 4
+    spread: 180-270
+    fragBullet: {
+      type: BasicBulletType
+      damage: 160
+      speed: 3
+      lifetime: 120
+      frontColor: ffff00
+      backColor: ffff00
+    }
+  }
+}
+requirements: [
+]
+category: turret
