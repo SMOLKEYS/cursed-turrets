@@ -81,8 +81,6 @@ ammoTypes: {
     backColor: ff0000
   }
 }
-requirements: [
-  copper/1
-]
+requirements: []
 category: turret
 shootSound: missile
