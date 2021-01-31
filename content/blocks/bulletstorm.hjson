@@ -1,6 +1,6 @@
 type: PowerTurret
-name: Bulletstorm
-description: Sends 1 bullet that fragments into something...
+name: Fireworks
+description: Sends 1 bullet that fragments into a firework manner.
 health: 9600000
 targetAir: true
 targetGround: true
