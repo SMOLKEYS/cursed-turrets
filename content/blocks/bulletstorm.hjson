@@ -5,18 +5,18 @@ health: 9600000
 targetAir: true
 targetGround: true
 size: 6
-reloadTime: 1200
+reloadTime: 180
 range: 270
 rotateSpeed: 30
 shootType: {
   type: ArtilleryBulletType
-  damage: 1
+  damage: 1-20
   size: 4
   fragBullets: 10
   spread: 36
   fragBullet: {
     type: MissileBulletType
-    damage: 80
+    damage: 20-100
     speed: 3
     lifetime: 120
     alternate: true
@@ -28,7 +28,7 @@ shootType: {
     spread: 180-270
     fragBullet: {
       type: MissileBulletType
-      damage: 160
+      damage: 50-200
       speed: 3
       lifetime: 120
       frontColor: ffff00
