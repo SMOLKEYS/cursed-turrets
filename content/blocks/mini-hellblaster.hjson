@@ -23,8 +23,6 @@ shootType: {
   frontColor: ff4848
   backColor: ff4848
 }
-requirements: [
-  copper/1
-]
+requirements: []
 category: turret
 shootSound: explosion
