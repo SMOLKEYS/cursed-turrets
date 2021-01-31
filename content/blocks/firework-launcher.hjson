@@ -12,7 +12,7 @@ shootType: {
   type: MissileBulletType
   damage: 30
   width: 20
-  length: 60
+  length: 120
   fragBullets: 10
   spread: 36
   fragBullet: {
