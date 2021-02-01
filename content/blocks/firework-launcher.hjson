@@ -44,7 +44,7 @@ shootType: {
         type: BasicBulletType
         damage: 200
         speed: 2
-        lifetime: 300
+        lifetime: 120
         pierce: true
         homingRange: 300
         homingPower: 90
