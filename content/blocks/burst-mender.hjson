@@ -1,0 +1,21 @@
+type: MendProjector
+name: Burst Mender
+description: A mender with an immense healing speed.
+size: 2
+health: 900000
+reload: 20
+range: 120
+healPercent: 5
+useTime: 120
+consumes: {
+  power: 1
+  items: {
+    items: [
+      phase-fabric/2
+    ]
+    booster: true
+    optional: true
+  }
+}
+requirements: []
+category: effect

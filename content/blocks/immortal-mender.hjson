@@ -1,0 +1,14 @@
+type: MendProjector
+name: Immortal Mender
+description: Instantly heals everything.
+size: 2
+health: 900000
+reload: 20
+range: 4000
+healPercent: 100
+useTime: 120
+consumes: {
+  power: 1
+}
+requirements: []
+category: effect

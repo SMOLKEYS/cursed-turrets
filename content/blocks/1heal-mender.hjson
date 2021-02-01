@@ -1,0 +1,21 @@
+type: MendProjector
+name: 1-Heal  Mender
+description: A mender that can heal blocks in 1 pulse, but is very slow.
+size: 2
+health: 900000
+reload: 240
+range: 120
+healPercent: 100
+useTime: 120
+consumes: {
+  power: 1
+  items: {
+    items: [
+      phase-fabric/2
+    ]
+    booster: true
+    optional: true
+  }
+}
+requirements: []
+category: effect

@@ -1,0 +1,60 @@
+type: PowerTurret
+name: Firework Launcher
+description: Sends 1 bullet that fragments into a firework manner. The fragment bullets have more damage. Because why not. 
+health: 9600000
+targetAir: true
+targetGround: true
+size: 6
+reloadTime: 20
+shots: 1
+xRand: 12
+range: 270
+rotateSpeed: 30
+shootType: {
+  type: MissileBulletType
+  speed: 7
+  damage: 50
+  width: 16
+  length: 24
+  fragBullets: 10
+  spread: 36
+  fragBullet: {
+    type: MissileBulletType
+    damage: 100
+    speed: 3
+    lifetime: 120
+    alternate: true
+    frontColor: 00ff00
+    backColor: 00ff00
+    width: 16
+    length: 24
+    fragBullets: 10
+    spread: 360
+    fragBullet: {
+      type: MissileBulletType
+      damage: 150
+      speed: 3
+      lifetime: 120
+      frontColor: ffff00
+      backColor: ffff00
+      width: 8
+      length: 16
+      fragBullets: 10
+      fragBullet: {
+        type: BasicBulletType
+        damage: 200
+        speed: 2
+        lifetime: 300
+        pierce: true
+        homingRange: 300
+        homingPower: 90
+        frontColor: ff0000
+        backColor: ff0000
+        }
+      }
+    }
+  }
+requirements: [
+]
+category: turret
+shootSound: missile
