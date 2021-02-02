@@ -5,7 +5,7 @@ targetAir: true
 targetGround: true
 health: 9000000
 size: 5
-reloadTime: 120
+reloadTime: 30
 range: 1080
 rotateSpeed: 30
 shootType: {
