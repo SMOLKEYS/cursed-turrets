@@ -1,1 +1,25 @@
-type:
+type: LaserTurret
+name: block t4
+description: LASER GABALABABAAAAAAAAAAAAAAAAAAA
+targetAir: true
+targetGround: true
+health: 9000000
+size: 5
+reloadTime: 240
+range: 520
+shots: 2
+spread: 15
+rotateSpeed: 30
+shootType: {
+  type: ContinuousLaserBulletType
+  damage: 880
+  colors: [ffffff, ffffff]
+  shootSound: beam
+  length: 520
+  width: 32
+  status: melting
+  sprite: cursedturrets-block
+  lifetime: 200
+}
+requirements: []
+category: turret
