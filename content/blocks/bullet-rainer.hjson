@@ -7,7 +7,7 @@ targetAir: true
 targetGround: true
 size: 5
 reloadTime: 0.1
-shots: 30
+shots: 100
 inaccuracy: 15
 range: 320
 rotateSpeed: 60
