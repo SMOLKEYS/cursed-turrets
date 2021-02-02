@@ -14,7 +14,7 @@ shootType: {
   type: BasicBulletType
   speed: 10
   damage: 9183918
-  trailColor: ff0000
+  effect: incendTrail
   lifetime: 180
   pierce: true
   status: burning
