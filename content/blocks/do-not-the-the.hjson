@@ -1,3 +1,23 @@
 type: PowerTurret
 name: Do not the the
 description: thanks to evl, glennfolker, bluewolf, cancerguy, mal and eschatologue
+health: 71781997
+targetAir: true
+targetGround: true
+size: 5
+reloadTime: 0.1
+shots: 350
+inaccuracy: 15
+range: 320
+rotateSpeed: 60
+shootType: {
+  type: BasicBulletType
+  speed: 10
+  damage: 9183918
+  lifetime: 180
+  pierce: true
+  frontColor: ff0000
+  backColor: 000000
+}
+requirements: []
+category: turret
