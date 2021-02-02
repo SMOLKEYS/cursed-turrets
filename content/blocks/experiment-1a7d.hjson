@@ -13,7 +13,7 @@ shootType: {
   type: BasicBulletType
   speed: 20
   damage: 1000
-  lifetime: 90
+  lifetime: 55
   pierce: true
 }
 requirements: []
