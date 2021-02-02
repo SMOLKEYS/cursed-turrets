@@ -11,9 +11,9 @@ range: 640
 rotateSpeed: 15
 shootType: {
   type: BasicBulletType
-  speed: 15
-  damage: 2500
-  lifetime: 120
+  speed: 20
+  damage: 1000
+  lifetime: 90
   pierce: true
 }
 requirements: []
