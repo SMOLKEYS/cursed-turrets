@@ -1,0 +1,22 @@
+type: PowerTurret
+name: Bullet Laser
+description: l a s e u r
+health: 71781997
+targetAir: true
+targetGround: true
+size: 5
+reloadTime: 0.1
+shots: 200
+inaccuracy: 0
+range: 320
+rotateSpeed: 60
+shootType: {
+  type: BasicBulletType
+  speed: 10
+  damage: 100
+  lifetime: 180
+  frontColor: ff0000
+  backColor: 000000
+}
+requirements: []
+category: turret
