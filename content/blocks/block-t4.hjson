@@ -5,19 +5,19 @@ targetAir: true
 targetGround: true
 health: 9000000
 size: 5
-reloadTime: 240
-range: 520
-chargeTime: 100
+reloadTime: 120
+range: 800
+chargeTime: 70
 chargeBeginEffect: greenLaserCharge
 shots: 2
-spread: 15
+spread: 45
 rotateSpeed: 30
 shootType: {
   type: ContinuousLaserBulletType
   damage: 880
   colors: [ffffff, ffffff]
   shootSound: beam
-  length: 520
+  length: 800
   width: 32
   status: melting
   sprite: cursedturrets-block
