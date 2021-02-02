@@ -36,7 +36,7 @@ Just simply rains a hella lotta bullets on the enemy.
 Immensely powerful turrets that can snipe down powerful units, send deadly shocks of power and more.
 
 Turrets:
-- Experiment-1a7d (Sniper)
+- Experiment-1a7d (Homing Sniper)
 
 # Do not the the
 a
