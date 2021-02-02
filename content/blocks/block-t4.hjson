@@ -5,12 +5,10 @@ targetAir: true
 targetGround: true
 health: 9000000
 size: 5
-reloadTime: 120
+reloadTime: 60
 range: 800
 chargeTime: 70
 chargeBeginEffect: greenLaserCharge
-shots: 2
-spread: 45
 rotateSpeed: 30
 shootType: {
   type: ContinuousLaserBulletType
