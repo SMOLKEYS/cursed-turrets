@@ -16,6 +16,7 @@ shootType: {
   damage: 9183918
   lifetime: 180
   pierce: true
+  status: burning
   frontColor: ff0000
   backColor: 000000
 }
