@@ -17,7 +17,7 @@ shootType: {
   width: 32
   status: melting
   sprite: cursedturrets-block
-  lifetime: 200
+  lifetime: 210
 }
 requirements: []
 category: turret
