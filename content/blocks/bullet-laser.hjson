@@ -7,7 +7,7 @@ targetGround: true
 pierce: true
 size: 5
 reloadTime: 0.0001
-shots: 20
+shots: 1
 inaccuracy: 0
 range: 320
 rotateSpeed: 60
