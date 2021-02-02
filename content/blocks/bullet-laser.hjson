@@ -4,6 +4,7 @@ description: l a s e u r
 health: 71781997
 targetAir: true
 targetGround: true
+pierce: true
 size: 5
 reloadTime: 0.1
 shots: 200
