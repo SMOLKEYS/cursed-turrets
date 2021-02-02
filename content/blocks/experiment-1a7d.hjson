@@ -12,7 +12,7 @@ rotateSpeed: 15
 shootType: {
   type: BasicBulletType
   speed: 20
-  damage: 100
+  damage: 1000
   homingRange: 800
   homingPower: 800
   lifetime: 55
