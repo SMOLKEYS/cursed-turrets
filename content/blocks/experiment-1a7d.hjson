@@ -12,7 +12,9 @@ rotateSpeed: 15
 shootType: {
   type: BasicBulletType
   speed: 20
-  damage: 1000
+  damage: 100
+  homingRange: 800
+  homingPower: 800
   lifetime: 55
   pierce: true
 }
