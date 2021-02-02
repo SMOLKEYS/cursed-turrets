@@ -32,6 +32,15 @@ A turret that was suggested by QmelZ. Shoots backwards and freezes units.
 # Bullet Rainer/Bullethell
 Just simply rains a hella lotta bullets on the enemy.
 
+# The Experiment Turrets
+Immensely powerful turrets that can snipe down powerful units, send deadly shocks of power and more.
+
+Turrets:
+- Experiment-1a7d (Sniper)
+
+
+
+
 # TODO
 - Make the T4-T10 block turrets
 - ~~Throw my phone into the sun~~
