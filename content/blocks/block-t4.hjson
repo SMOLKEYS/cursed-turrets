@@ -8,7 +8,7 @@ size: 5
 reloadTime: 240
 range: 520
 chargeTime: 100
-chargeBeginEffect: laserCharge
+chargeBeginEffect: greenLaserCharge
 shots: 2
 spread: 15
 rotateSpeed: 30
