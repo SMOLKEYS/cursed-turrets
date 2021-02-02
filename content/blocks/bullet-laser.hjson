@@ -4,7 +4,6 @@ description: l a s e u r
 health: 71781997
 targetAir: true
 targetGround: true
-pierce: true
 size: 5
 reloadTime: 0.0001
 shots: 1
@@ -16,6 +15,7 @@ shootType: {
   speed: 10
   damage: 100
   lifetime: 180
+  pierce: true
   frontColor: ff0000
   backColor: 000000
 }
