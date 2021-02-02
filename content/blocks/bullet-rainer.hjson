@@ -8,7 +8,7 @@ targetGround: true
 size: 5
 reloadTime: 0.1
 shots: 200
-inaccuracy: 30
+inaccuracy: 15
 range: 320
 rotateSpeed: 60
 shootType: {
