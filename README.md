@@ -29,7 +29,8 @@ Overpowered block turrets that range from T1-T10(?)
 # Freezeup
 A turret that was suggested by QmelZ. Shoots backwards and freezes units.
 
-
+# Bullet Rainer/Bullethell
+Just simply rains a hella lotta bullets on the enemy.
 
 # TODO
 - Make the T4-T10 block turrets
