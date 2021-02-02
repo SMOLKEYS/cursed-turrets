@@ -1,4 +1,21 @@
 type: PowerTurret
 name: Experiment-1a7d
-description: A powerful deadeye homing sniper. Shoots bullets in unimaginable speeds, has damage capable of decimating T3's and has insane range.
-details: DO NOT encounter or underestimate, as it has an insane "True Range".
+description: A powerful deadeye homing sniper. Shoots bullets in unimaginable speeds giving it pierce ability, has damage capable of decimating T3's and has insane range.
+details: DO NOT encounter or underestimate, as it has "True Range" which is the maximum bullet range.
+health: 9937819
+targetAir: true
+targetGround: true
+size: 5
+reloadTime: 130
+range: 640
+rotateSpeed: 15
+shootType {
+  type: BasicBulletType
+  speed: 15
+  damage: 2500
+  lifetime: 120
+  pierce: true
+}
+requirements: []
+category: turret
+shootSound: experiment-1a7d-gunshot
