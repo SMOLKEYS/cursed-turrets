@@ -13,6 +13,7 @@ range: 320
 rotateSpeed: 60
 shootType: {
   type: BasicBulletType
+  trailColor: 00ff00
   speed: 10
   damage: 100
   lifetime: 180
