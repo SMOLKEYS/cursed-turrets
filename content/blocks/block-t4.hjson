@@ -7,7 +7,7 @@ health: 9000000
 size: 5
 reloadTime: 60
 range: 800
-chargeTime: 70
+chargeTime: 75
 chargeBeginEffect: greenLaserCharge
 rotateSpeed: 30
 shootType: {
