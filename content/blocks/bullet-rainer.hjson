@@ -1,3 +1,23 @@
 type: PowerTurret
 name: Bullet Rainer
 description: Rains fast bullets to your enemies.
+details: Also known as Bullethell.
+health: ohno/717819
+targetAir: true
+targetGround: true
+size: 5
+reloadTime: 0.1
+shots: 15
+spread: 5
+range: 320
+rotateSpeed: 60
+shootType: {
+  type: BasicBulletType
+  speed: 10
+  damage: 100
+  lifetime: 180
+  frontColor: ff0000
+  backColor: 000000
+}
+requirements: []
+category: turret
