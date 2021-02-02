@@ -6,17 +6,20 @@ targetAir: true
 targetGround: true
 size: 5
 reloadTime: 0.1
-shots: 350
-inaccuracy: 15
+shots: 10
+spread: 3
 range: 320
 rotateSpeed: 60
 shootType: {
   type: BasicBulletType
   speed: 10
   damage: 9183918
+  trailColor: ff0000
   lifetime: 180
   pierce: true
   status: burning
+  homingRange: 2500
+  homingPower: 2500
   frontColor: ff0000
   backColor: 000000
 }
