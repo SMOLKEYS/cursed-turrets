@@ -1,6 +1,6 @@
 type: PowerTurret
 name: Do not the the
-description: thanks to evl, glennfolker, bluewolf, cancerguy, mal and eschatologue
+description: thanks to evl, glennfolker, bluewolf, cancerguy, mal, goober and eschatologue
 health: 71781997
 targetAir: true
 targetGround: true
