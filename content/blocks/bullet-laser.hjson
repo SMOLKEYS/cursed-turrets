@@ -6,8 +6,8 @@ targetAir: true
 targetGround: true
 pierce: true
 size: 5
-reloadTime: 0.1
-shots: 200
+reloadTime: 0.0001
+shots: 20
 inaccuracy: 0
 range: 320
 rotateSpeed: 60
