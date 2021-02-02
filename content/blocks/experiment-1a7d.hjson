@@ -9,7 +9,7 @@ size: 5
 reloadTime: 130
 range: 640
 rotateSpeed: 15
-shootType {
+shootType: {
   type: BasicBulletType
   speed: 15
   damage: 2500
