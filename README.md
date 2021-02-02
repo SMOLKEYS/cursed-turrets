@@ -30,7 +30,7 @@ Overpowered block turrets that range from T1-T10(?)
 A turret that was suggested by QmelZ. Shoots backwards and freezes units.
 
 # Bullet Rainer/Bullethell
-Just simply rains a hella lotta bullets on the enemy.
+Just simply rains a hella lotta bullets on the enemy. Also has a full on accurate variant.
 
 # The Experiment Turrets
 Immensely powerful turrets that can snipe down powerful units, send deadly shocks of power and more.
