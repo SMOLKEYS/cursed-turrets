@@ -2,7 +2,7 @@ type: PowerTurret
 name: Bullet Rainer
 description: Rains fast bullets to your enemies.
 details: Also known as Bullethell.
-health: ohno/717819
+health: 71781997
 targetAir: true
 targetGround: true
 size: 5
