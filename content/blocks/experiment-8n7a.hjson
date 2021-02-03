@@ -1,3 +1,19 @@
 type: PowerTurret
 name: Experiment-8n7a
-description: A 
+description: A deadly long-range flamethrower.
+targetAir: false
+targetGround: true
+health: 9173918
+size: 4
+reloadTime: 0.1
+range: 206.4
+rotateSpeed: 20
+shootType: {
+  type: pyraFlame
+  damage: 120
+  length: 204.5
+  width: 16
+}
+requirements: []
+category: turret
+shootSound: flame
