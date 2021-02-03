@@ -37,6 +37,10 @@ Immensely powerful turrets that can snipe down powerful units, send deadly shock
 
 Turrets:
 - Experiment-1a7d (Homing Sniper)
+- ???
+- ???
+- ???
+- ???
 
 # Do not the the
 a
