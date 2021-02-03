@@ -9,7 +9,7 @@ reloadTime: 0.1
 range: 206.4
 rotateSpeed: 20
 shootType: {
-  type: FireBulletType
+  type: IncendiaryBulletType
   damage: 120
   length: 204.5
   width: 16
