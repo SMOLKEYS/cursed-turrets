@@ -9,10 +9,11 @@ reloadTime: 0.1
 range: 206.4
 rotateSpeed: 20
 shootType: {
-  type: FlameBulletType
+  type: ScorchBulletType
   damage: 120
   length: 204.5
   width: 16
+  status: burning
 }
 requirements: []
 category: turret
