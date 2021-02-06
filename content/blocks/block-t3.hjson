@@ -6,7 +6,7 @@ targetAir: false
 targetGround: true
 size: 4
 reloadTime: 20
-range: 60000
+range: 600
 rotateSpeed: 10
 shots: 10
 spread: 5
