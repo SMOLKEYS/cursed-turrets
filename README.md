@@ -53,6 +53,7 @@ a
 # TODO
 - Make the T4-T10 block turrets
 - ~~Throw my phone into the sun~~
-- Make the Algretor Sprite
+- ~~Make the Algretor Sprite~~
 - Make a turret that can shoot any resource(suggested by JosherIsFun)
 - Make an custom fuse(suggested by Ent)
+- Make 10-15 new turrets
