@@ -17,22 +17,24 @@ ammoTypes: {
     type: BasicBulletType
     speed: 10
     damage: 40
+    knockback: 21474
     lifetime: 240
     width: 16
     height: 16
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
     ammoMultiplier: 5
-    sprite: item-sand
+    sprite: sand
     fragBullets: 5
     fragBullet: {
       type: BasicBulletType
       speed: 15
       damage: 30
+      knockback: 21474
       lifetime: 20
       width: 8
       height: 8
-      sprite: item-sand
+      sprite: sand
     }
   }
 }
