@@ -17,7 +17,7 @@ ammoTypes: {
     type: BasicBulletType
     speed: 10
     damage: 40
-    knockback: 21474
+    knockback: 2147483647
     lifetime: 240
     width: 16
     height: 16
@@ -30,7 +30,7 @@ ammoTypes: {
       type: BasicBulletType
       speed: 15
       damage: 30
-      knockback: 21474
+      knockback: 2147483647
       lifetime: 20
       width: 8
       height: 8
