@@ -27,6 +27,8 @@ Shoots 1 large missile.(again, *10/10 info*)
 Overpowered block turrets that range from T1-T10.
 (4/10 completed)
 
+# Sandblaster
+snad
 
 # Freezeup
 A turret that was suggested by QmelZ. Shoots backwards and freezes units.
