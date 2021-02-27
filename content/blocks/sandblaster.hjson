@@ -1,1 +1,41 @@
 type: ItemTurret
+name: Sandblaster
+description: sand
+targetAir: true
+targetGround: true
+health: 8181818
+size: 3
+inaccuracy: 5
+reloadTime: 1
+shots: 5
+maxAmmo: 200
+recoil: 3
+rotateSpeed: 90
+range: 640
+ammoTypes: {
+  sand: {
+    type: BasicBulletType
+    speed: 10
+    damage: 40
+    lifetime: 240
+    width: 16
+    height: 16
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    ammoMultiplier: 5
+    sprite: sand
+    fragBullets: 5
+    fragBullet: {
+      type: BasicBulletType
+      speed: 15
+      damage: 30
+      lifetime: 20
+      width: 8
+      height: 8
+      sprite: sand
+    }
+  }
+}
+requirements: []
+category: turret
+shootSound: missile
