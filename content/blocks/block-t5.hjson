@@ -1,0 +1,28 @@
+type: PowerTurret
+name: block t5
+description: oh no
+details: cancer for everything in its radius
+targetAir: true
+targetGround: true
+health: 987654321
+size: 6
+inaccuracy: 360
+reloadTime: 10
+range: 1080
+shots: 2
+spread: 360
+rotateSpeed: 90
+firingMoveFract: 0.5
+shootType: {
+  type: ContinuousLaserBulletType
+  damage: 30
+  colors: [ffffff, ffffff]
+  shootSound: beam
+  length: 1080
+  width: 48
+  status: melting
+  sprite: cursedturrets-block-t5
+  lifetime: 200
+}
+requirements: []
+category: turret
