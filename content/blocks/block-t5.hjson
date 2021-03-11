@@ -15,7 +15,7 @@ rotateSpeed: 90
 firingMoveFract: 0.5
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 30
+  damage: 400
   colors: [ffffff, ffffff]
   shootSound: beam
   length: 1080
