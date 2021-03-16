@@ -59,3 +59,4 @@ a
 - Make a turret that can shoot any resource(suggested by JosherIsFun)
 - Make an custom fuse(suggested by Ent)
 - Make 10-15 new turrets
+- *I need to stop making turrets, i need to start spriting turrets*
