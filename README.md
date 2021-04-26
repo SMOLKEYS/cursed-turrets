@@ -24,8 +24,8 @@ Shoots 2 small missiles.*(10/10 info)*
 Shoots 1 large missile.(again, *10/10 info*)
 
 # Block (Has Tiers)
-Overpowered block turrets that range from T1-T10.
-(5/10 completed)
+Overpowered block turrets that range from T1-T5.
+~~(5/10 completed)~~
 
 # Sandblaster
 snad
@@ -36,27 +36,23 @@ A turret that was suggested by QmelZ. Shoots backwards and freezes units.
 # Bullet Rainer/Bullethell
 Just simply rains a hella lotta bullets on the enemy. Also has a full on accurate variant.
 
-# The Experiment Turrets
-Immensely powerful turrets that can snipe down powerful units, send deadly shocks of power and more.
+# The Experiment Turret
+Experiment-1a7d (Homing Sniper)
 
-Turrets:
-- Experiment-1a7d (Homing Sniper)
-- ???
-- ???
-- ???
-- ???
-
-(1/5 completed)
+~~(1/5 completed)~~
 
 # Do not the the
 a
 
 
 # TODO
-- Make the T4-T10 block turrets
+- ~~Make the T4-T10 block turrets~~
 - ~~Throw my phone into the sun~~
 - ~~Make the Algretor Sprite~~
-- Make a turret that can shoot any resource(suggested by JosherIsFun)
-- Make an custom fuse(suggested by Ent)
-- Make 10-15 new turrets
-- *I need to stop making turrets, i need to start spriting turrets*
+- ~~Make a turret that can shoot any resource(suggested by JosherIsFun)~~
+- ~~Make an custom fuse(suggested by Ent)~~
+- ~~Make 10-15 new turrets~~
+- ~~*I need to stop making turrets, i need to start spriting turrets*~~
+
+
+TODO canceled, mod will be finalized when sprites are complete
