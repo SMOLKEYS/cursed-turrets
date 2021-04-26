@@ -1,3 +1,5 @@
+abandoned mod, may lose support on new versions
+
 # Cursed Turrets Mod
 
 Adds in overpowered and *very* cursed turrets.
@@ -55,4 +57,4 @@ a
 - ~~*I need to stop making turrets, i need to start spriting turrets*~~
 
 
-TODO canceled, mod will be finalized when sprites are complete
+TODO canceled
