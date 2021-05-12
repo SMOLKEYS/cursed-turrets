@@ -1,8 +1,8 @@
 {
-"name": "cursedturrets",
-"displayName": "Cursed Turrets",
+"name": "cursedturretslegacy",
+"displayName": "CT(legacy)",
 "author": "SMOLKEYS",
-"description": "Adds in new cursed turrets to the game.",
+"description": "abandoned mod, do not use",
 "version": "end",
 "minGameVersion": "121",
 }
