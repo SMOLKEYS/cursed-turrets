@@ -1,3 +1,1 @@
-abandoned mod, may lose support on new versions
-
-once the mod no longer supports the latest update, it will be deleted
+a incomplete v6 mod, will no longer be updated
