@@ -1,0 +1,23 @@
+type: PowerTurret
+name: Burst
+description: die
+targetAir: true
+targetGround: true
+health: 987654
+size: 3
+inaccuracy: 0
+reloadTime: 10
+range: 200
+burstSpacing: 1
+shots: 200
+spread: 360
+rotateSpeed: 90
+firingMoveFract: 0.5
+shootType: {
+  type: BasicBulletType
+  damage: 50
+  length: 16
+  width: 16
+}
+requirements: []
+category: turret
