@@ -1,2 +1,1 @@
-~~returning~~
-dead again
+A new fate is met...
